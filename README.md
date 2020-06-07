@@ -1,2 +1,2 @@
 # Django-Project
-Django tutorials
+Django tutorialsI did while leraning basics of Django
